@@ -1,5 +1,3 @@
-Aqui está uma proposta de **README.md** com foco acadêmico para o seu repositório. Ele foi estruturado para destacar a contextualização teórica, os objetivos de aprendizado e a relevância prática do projeto, algo muito valorizado em portfólios de estudantes e pesquisadores.
-
 ---
 
 # # Calculadora de IMC (Índice de Massa Corporal)
